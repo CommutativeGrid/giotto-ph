@@ -6,4 +6,4 @@
 	url = https://github.com/preshing/junction
 [submodule "giotto_ph/ext/turf"]
 	path = gph/ext/turf
-	url = https://github.com/preshing/turf
+	url = https://github.com/CommutativeGrid/turf
